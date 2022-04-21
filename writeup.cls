@@ -34,6 +34,7 @@ top=0.5in,bottom=0.5in}
 \RequirePackage{amsfonts}
 \RequirePackage{amsmath}
 \RequirePackage{amssymb}
+\RequirePackage{mathtools}
 %% links
 \RequirePackage[colorlinks=true,citecolor=blue,
 linkcolor=blue,urlcolor=blue]{hyperref}
