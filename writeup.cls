@@ -1,5 +1,5 @@
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{WriteUp}[2022/02/22]
+\ProvidesClass{WriteUp}[2022/04/21]
 %%----------------------------------------------------------------------------%%
 %% options
 %% base class
@@ -47,6 +47,3 @@ linkcolor=blue,urlcolor=blue]{hyperref}
 %%----------------------------------------------------------------------------%%
 %% fonts
 \renewcommand{\rmdefault}{\WriteUp@rmdefault}
-%% differential
-\newcommand\dd{\mathop{}\!\mathrm{d}}
-\newcommand{\diff}[1]{\dd#1}
